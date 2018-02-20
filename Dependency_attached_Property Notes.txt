@@ -1,0 +1,15 @@
+http://www.developerfusion.com/article/84469/wpf-dependency-properties/
+
+
+https://www.codeproject.com/Articles/1062134/WPF-Fundamental-Concepts-in-Easy-Samples-Part-Depe
+
+
+https://www.codeproject.com/Tips/692265/WPF-Custom-Attached-Property
+
+
+
+http://dailydotnettips.com/2013/10/12/how-to-create-an-attached-properties-in-wpf/
+
+--- better explanation of DP and AP
+
+http://www.codemag.com/article/1405061

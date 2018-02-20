@@ -1,0 +1,29 @@
+https://www.codeproject.com/Articles/6207/Generics-C
+
+https://www.codeproject.com/Articles/832189/List-vs-IEnumerable-vs-IQueryable-vs-ICollection-v
+
+http://www.c-sharpcorner.com/UploadFile/736bf5/collection-in-C-Sharp/
+
+
+Dictionary is GENERIC while HashTable is not generic : Dictionary<TKey, TValue>, There is a tiny difference between them that if dictionary can not find specific key will throw an exception while HashTable just returns null.
+
+Use generic types to maximize code reuse, type safety, and performance.
+he most common use of generics is to create collection classes.
+the T is a placeholder for an arbitrary type; it means that SampleCollection can represent a collection of objects, the type of which you specify when you create the collection.
+
+########################################################################
+COLLECTION
+
+Collection is set of related records. it is like a container to store data  temporarily for fetch and modification process. 
+
+There are the following 2 types of collections:
+
+Non-Generic
+Generic
+
+ Non-generic                          Generic
+  ArrayList     ------------->          List
+  HashTable  ------------->          Dictionary
+  SortedList   ------------->          SortedList  
+  Stack           ------------->          Stack
+  Queue         ------------->          Queue

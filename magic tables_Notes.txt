@@ -1,0 +1,4 @@
+http://www.c-sharpcorner.com/UploadFile/93126e/what-are-the-magic-tables-used-by-triggers-in-sql-server/
+
+
+http://www.dotnetspider.com/resources/29332-Magic-tables-SQL-Server.aspx

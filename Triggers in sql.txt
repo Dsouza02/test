@@ -1,0 +1,17 @@
+############################## Triggers ####################
+
+
+https://www.codeproject.com/Articles/25600/Triggers-SQL-Server
+
+
+
+http://www.c-sharpcorner.com/UploadFile/a53f1a/triggers-in-sql-server/
+
+
+3Types o triggers
+after triggers
+instead of triggers : - instead of triggers are used b4 inserting , updating or deleting the entry in a table
+			eg: we can write trigger whenever 
+logon triggers
+
+

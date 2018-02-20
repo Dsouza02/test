@@ -1,0 +1,217 @@
+http://www.c-sharpcorner.com/article/C-Sharp-heaping-vs-stacking-in-net-part-i/
+
+
+http://net-informations.com/faq/oops/binding.htm
+
+####### EVENTS #######
+https://www.wpftutorial.net/RoutedEvents.html
+https://www.tutorialspoint.com/wpf/wpf_routed_events.htm
+https://www.codeproject.com/Articles/464926/To-bubble-or-tunnel-basic-WPF-events
+
+
+--- architecture of .net
+
+http://www.c-sharpcorner.com/uploadfile/puranindia/net-framework-and-architecture
+
+--- wpf and mvvm
+
+https://www.devexpress.com/Products/NET/Controls/WPF/
+
+--------------------------------------------------------------------------------------
+
+http://miteshsureja.blogspot.in/2011/07/binding-modes-in-wpf.html
+
+http://blog.scottlogic.com/2012/04/20/everything-you-wanted-to-know-about-databinding-in-wpf-silverlight-and-wp7-part-two.html
+
+http://blog.scottlogic.com/2012/04/05/everything-you-wanted-to-know-about-databinding-in-wpf-silverlight-and-wp7-part-one.html
+
+----- MVC
+ancestor
+http://www.codemag.com/article/1201061
+
+--- Important  Convertors
+
+http://www.c-sharpcorner.com/UploadFile/dpatra/value-converter-in-wpf-part-i/ 
+
+
+--- Important Templates
+
+http://www.codeproject.com/Articles/30994/Introduction-to-WPF-Templates
+
+--- Important MVVM 
+
+http://www.c-sharpcorner.com/UploadFile/raj1979/simple-mvvm-pattern-in-wpf/
+
+---- 
+
+http://www.dotnetperls.com/property
+
+http://www.c-sharpcorner.com/Interviews/answer/4843/in-which-situations-the-use-of-delegate-is-a-good-idea
+
+-- TRIGERRS
+
+http://www.codeproject.com/Articles/25600/Triggers-SQL-Server
+
+
+https://technet.microsoft.com/en-us/library/aa174792(v=sql.80).aspx
+
+-- Stored Procedures 
+
+http://infocenter.sybase.com/help/index.jsp?topic=/com.sybase.infocenter.dc32300.1570/html/sqlug/sqlug672.htm
+
+http://www.codeproject.com/Articles/126898/Sql-Server-How-To-Write-a-Stored-Procedure-in-SQL
+
+
+---- Icommands
+
+http://www.c-sharpcorner.com/UploadFile/e06010/wpf-icommand-in-mvvm/
+
+
+---Important
+
+http://www.entityframeworktutorial.net/EntityFramework4.3/dbcontext-vs-objectcontext.aspx
+
+
+-- joins
+
+http://stackoverflow.com/questions/20602826/sql-server-need-join-but-where-not-equal-to
+
+http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins
+
+https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/
+
+https://stackoverflow.com/questions/406294/left-join-vs-left-outer-join-in-sql-server
+
+--tutorials
+
+http://www.blackwasp.co.uk/Linq.aspx
+
+------ Indexes  (Clustered And Non-Clustered)
+
+http://www.codeproject.com/Articles/173275/Clustered-and-Non-Clustered-Index-in-SQL
+
+https://msdn.microsoft.com/en-IN/library/ms190457.aspx
+
+https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html
+
+--------------------------------- DIfference between drop , deleted and truncate
+
+http://www.orafaq.com/faq/difference_between_truncate_delete_and_drop_commands
+
+---------- MultiThreading 
+
+http://www.codeproject.com/Articles/1083/Multithreaded-Programming-Using-C
+
+
+----------- Dispatcher------
+
+http://stackoverflow.com/questions/7839296/using-the-c-sharp-dispatcher
+
+http://weblogs.asp.net/pawanmishra/understanding-dispatcher-in-wpf
+
+
+------ Multibindinf converter
+
+http://www.c-sharpcorner.com/UploadFile/87b416/wpf-multivalue-converters/
+
+-------Find Ancestors
+
+http://stackoverflow.com/questions/84278/how-do-i-use-wpf-bindings-with-relativesource
+
+--- Access Modifier
+
+http://www.codeproject.com/Articles/1040492/Access-Modifiers-in-Csharp-NET-with-Examples
+
+--- Architecture
+
+http://www.c-sharpcorner.com/article/assembly-in-net/
+
+--- linq first , firstorDefault , Single , singleOr Default.
+
+http://www.dotnettricks.com/learn/linq/understanding-single-singleordefault-first-and-firstordefault
+
+------------- difference betwwen list and observablecollection in wpf
+
+http://www.codeproject.com/Articles/42536/List-vs-ObservableCollection-vs-INotifyPropertyCha
+
+http://stackoverflow.com/questions/4196968/observablecollection-vs-list
+
+http://www.c-sharpcorner.com/interview-question/what-is-the-difference-between-list-and-observable-collection
+
+
+---- Difeernece betwwen int32 , 
+
+http://www.codeproject.com/Articles/32885/Difference-Between-Int-Parse-Convert-ToInt-and
+
+-------------- use of using 
+
+http://stackoverflow.com/questions/567138/when-should-i-use-using-blocks-in-c
+
+Good Blog for all basics
+---------------------------------------------------------------------------|
+https://aspdotnetmyblog.blogspot.in/search/label/LINQ    |
+__________________________________________________|
+
+MVC good link
+------------------------------------------------------------------------------------------ |
+https://aspdotnetmyblog.blogspot.in/2015/11/mvc-for-beginner.html |
+-------------------------------------------------------------------------------------------|
+
+########################################################################s
+----  inserting into table from a form in asp-net
+
+http://stackoverflow.com/questions/16541337/inserting-into-table-from-a-form-in-asp-net
+
+http://www.c-sharpcorner.com/uploadfile/47548d/simple-insert-select-update-and-delete-in-asp-net-using-mysq/
+
+########################################################################
+
+http://www.tutorialsteacher.com/csharp/csharp-delegates
+http://sellsbrothers.com/public/writing/delegates.htm
+#########################################################################
+
+
+
+Magic Table
+################################################################
+http://www.c-sharpcorner.com/UploadFile/rohatash/magic-tables-in-sql-server-2012/
+
+http://www.c-sharpcorner.com/blogs/magic-table-in-sql-server1
+
+http://www.c-sharpcorner.com/blogs/what-is-magic-table-in-sql-server1
+
+
+
+
+
+##################################################################
+
+Merge Query
+
+http://www.c-sharpcorner.com/UploadFile/955025/merge-statement-in-sql-server/
+
+
+########################################################################
+Index
+#######################################################################
+https://stackoverflow.com/questions/2955459/what-is-an-index-in-sql
+
+https://dev.mysql.com/doc/refman/5.7/en/mysql-indexes.html
+
+http://dotnetauthorities.blogspot.in/2013/12/Microsoft-SQL-Server-Training-Online-Learning-Classes-INDEX-Overview-and-Optimizations.html
+
+http://dotnetauthorities.blogspot.in/2013/12/Microsoft-SQL-Server-Training-Online-Learning-Classes-INDEX-Creation-Deletetion-Optimizations.html
+
+######################################################################
+Ienummerabla and Iquerable
+###################################################################
+
+http://www.aspdotnet-suresh.com/2016/09/differences-between-iqueryable-and-ienumerable-in-csharp-with-example.html
+
+https://stackoverflow.com/questions/2433306/whats-the-difference-between-iqueryable-and-ienumerable
+
+
+
+
+
+

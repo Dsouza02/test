@@ -1,0 +1,14 @@
+https://www.tutorialspoint.com/dbms/database_normalization.htm
+
+https://sreenivasmsbi.wordpress.com/2012/02/27/sql-server-normalization-forms-with-examples/
+
+http://www.dotnettricks.com/learn/sqlserver/database-normalization-basics
+
+http://www.sqlservercentral.com/blogs/abhijit_desai/2010/09/07/noramlization/
+
+http://beginnersbook.com/2015/05/normalization-in-dbms/
+
+####################### Keys  ##############################
+http://beginnersbook.com/2015/04/candidate-key-in-dbms/
+
+http://www.dotnettricks.com/learn/sqlserver/different-types-of-sql-keys

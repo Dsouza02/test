@@ -1,0 +1,14 @@
+https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b
+
+
+http://www.programminginterviews.info/2012/07/linq-interview-questions-part-3.html
+
+
+https://www.w3resource.com/csharp-exercises/linq/index.php
+
+https://www.codeproject.com/Articles/29177/Better-LINQ-with-better-example
+
+https://stackoverflow.com/questions/4497086/linq-left-join-and-right-join
+
+########### good link #########
+http://csharpbasic.blogspot.in/

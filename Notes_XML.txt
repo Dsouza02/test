@@ -1,0 +1,6 @@
+##############____NOTES____################################
+
+https://www.google.co.in/search?q=add+stylesheet+using+c%23+in+xmlns&spell=1&sa=X&ved=0ahUKEwjM77zTkZXVAhUHu7wKHY8nD2QQvwUIIigA
+
+https://www.codeproject.com/Articles/13908/Serializing-XML-with-stylesheet
+

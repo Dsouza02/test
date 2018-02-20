@@ -1,0 +1,4 @@
+
+http://www.c-sharpcorner.com/UploadFile/princy.scorpin/data-validation-in-wpf-using-idataerrorinfo-and-displaying-t/
+
+https://tarundotnet.wordpress.com/2011/03/03/wpf-tutorial-how-to-use-idataerrorinfo-in-wpf/

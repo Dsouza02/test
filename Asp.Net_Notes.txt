@@ -1,0 +1,33 @@
+https://www.codeproject.com/Articles/73728/ASP-NET-Application-and-Page-Life-Cycle
+
+
+### insert into DB
+
+http://www.c-sharpcorner.com/UploadFile/0c1bb2/insert-bulk-records-into-database-using-Asp-Net-C-Sharp/
+
+http://www.c-sharpcorner.com/article/how-to-create-login-page-in-asp-net-web-application-using-c-sharp-and-sql-server/
+
+
+###################
+
+http://www.c-sharpcorner.com/uploadfile/dbeniwal321/how-to-show-grid-view-in-asp-net/
+
+###########################
+
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/models-data/displaying-a-table-of-database-data-cs
+
+################################
+
+
+
+https://www.aspsnippets.com/Articles/Display-data-from-database-in-HTML-table-in-ASPNet.aspx
+
+
+http://www.aspdotnet-suresh.com/2010/05/interview-questions-in-aspnetcnetsql.html
+
+###################
+by sony
+
+http://www.pragimtech.com/mvc-video-tutorial-for-beginners.aspx
+
+

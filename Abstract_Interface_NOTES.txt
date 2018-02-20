@@ -1,0 +1,13 @@
+http://www.c-sharpcorner.com/uploadfile/prasoonk/abstract-class-vs-interface/
+
+http://www.c-sharpcorner.com/UploadFile/d0e913/abstract-class-interface-two-villains-of-every-interview/
+
+http://www.c-sharpcorner.com/UploadFile/d0e913/abstract-class-interface-two-villains-of-every-interview756/
+
+
+http://stackoverflow.com/questions/1544979/using-getproperties-with-bindingflags-declaredonly-in-net-reflection
+
+https://www.google.co.in/search?q=BindingFlags+c%23&oq=BindingFlags+c%23&aqs=chrome..69i57.4879j0j1&sourceid=chrome&ie=UTF-8#q=what+is+bindingflags+c%23
+
+
+http://www.dotnetfunda.com/forums/show/3459/interview-questions-for-1-2-years-of-experience

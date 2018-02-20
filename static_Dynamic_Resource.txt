@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/17502467/set-control-background-color-using-dynamic-resource-in-wpf
+
+
+http://www.c-sharpcorner.com/UploadFile/anku123/resources-in-wpf/
+
+
+http://www.c-sharpcorner.com/blogs/static-resource-vs-dynamic-resource-in-xaml1

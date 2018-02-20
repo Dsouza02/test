@@ -1,0 +1,13 @@
+https://stackoverflow.com/questions/1108/how-does-database-indexing-work
+
+https://www.quora.com/Where-is-a-non-clustered-index-stored-inside-SQL-Server
+
+http://sqlity.net/en/2445/b-plus-tree/
+
+
+down vote
+Simple Description!!!!!!!!!!
+
+Index is nothing but a data structure that stores the values for a specific column in a table. An index is created on a column of a table.
+
+Example,we have a database table called User with three columns – Name, Age, and Address. Assume that the User table has thousands of rows.

@@ -1,0 +1,32 @@
+http://jslancer.com
+
+################# IMPT ####################
+
+http://javatechnologycenter.com/question/angularjs/StepstocreateAngularJSapplication.php
+
+#####################################
+
+http://www.dotnetcurry.com/angularjs/1107/angularjs-controllers
+########################################################
+Single Page Application
+########################################################
+
+https://blog.angular-university.io/why-a-single-page-application-what-are-the-benefits-what-is-a-spa/
+
+http://www.dotnetcurry.com/angularjs/1062/website-using-angularjs-aspnet-webapi
+
+http://www.dotnetcurry.com/aspnet/1054/single-page-spa-crud-application-aspnet-mvc-angularjs
+
+http://www.c-sharpcorner.com/uploadfile/rahul4_saxena/single-page-application-spa-using-angularjs-web-api-and-m/ 
+
+
+#####################################################
+CRUD Operations
+####################################################
+
+https://www.aspsnippets.com/Articles/Entity-Framework-MVC-CRUD-Select-Insert-Edit-Update-and-Delete-using-Entity-Framework-in-ASPNet-MVC.aspx
+
+https://www.aspsnippets.com/Articles/AngularJS-Database-MVC-Using-Entity-Framework-Database-with-AngularJS-in-ASPNet-MVC.aspx
+
+
+

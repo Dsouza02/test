@@ -1,0 +1,3 @@
+http://www.c-sharpcorner.com/uploadfile/keesari_anjaiah/reflection-in-net/
+
+https://www.codeproject.com/Articles/17269/Reflection-in-C-Tutorial
